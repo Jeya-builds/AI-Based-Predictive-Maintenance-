@@ -42,4 +42,5 @@ To identify potential machine failures
 before they occur using machine sensor data.
 
 ## Author
-AI & ML Student
+Jeya
+Aspiring AI & ML Engineer 
